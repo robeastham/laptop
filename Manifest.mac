@@ -4,7 +4,6 @@ common-components/exit-trap
 common-components/check-home-bin
 common-components/shared-functions
 mac-components/zsh-fix
-mac-components/homebrew
 mac-components/packages
 mac-components/rbenv
 mac-components/compiler-and-libraries
